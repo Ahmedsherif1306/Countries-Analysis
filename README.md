@@ -95,6 +95,11 @@ Key analytical tasks included:
   * Insight-driven storytelling
 
 ---
+## 📊 Countries Analysis Dashboard
+
+![Countries Analysis Dashboard](Countries%20analysis.png)
+
+---
 
 ## 📊 Most Important Insights
 
